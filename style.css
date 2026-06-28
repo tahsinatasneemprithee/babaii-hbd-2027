@@ -97,7 +97,7 @@ body{
 
     inset:0;
 
-    background: url("images/card-cover.jpg");
+    background: url("card-cover.jpg");
 
     display:flex;
     flex-direction:column;
@@ -168,7 +168,7 @@ body{
     position:absolute;
     inset:0;
 
-    background:url("images/card-cover.jpg");
+    background:url("card-cover.jpg");
     padding:30px;
 
     opacity:0;
